@@ -1,0 +1,16 @@
+setup.py
+fu_regnr/__init__.py
+fu_regnr/items.py
+fu_regnr/middlewares.py
+fu_regnr/pipelines.py
+fu_regnr/settings.py
+fu_regnr/spiders/__init__.py
+fu_regnr/spiders/fu_regnr_scrapy.py
+fu_regnr/spiders/fu_regnr_scrapy_v1.0.py
+fu_regnr/spiders/fu_regnr_scrapy_v2.0.py
+fu_regnr/spiders/fu_regnr_scrapy_v3.0.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
